@@ -92,6 +92,7 @@ def main():
 
     SaveImg(img_url, position, regX)
 
+    # 测试一下 github
 
 
 if __name__ == '__main__':
