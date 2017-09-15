@@ -6,4 +6,5 @@ Git has a mutable index called stage.
 添加一行?
 这是DIV分支的修改
 Creating a new branch is quick & simple.
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simplek.
+add merge
